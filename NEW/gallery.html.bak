@@ -1,0 +1,91 @@
+<html>
+<head>
+<title> gallery </title>
+</head>
+<style>
+
+body
+
+ul {
+			  color:lime;
+			  font-family:"Comic Sans MS", serif;
+			  font-style:italic;
+			  font-size:18px; 
+			
+
+			  background-color:black;
+			  border-style:solid;
+			  border-color;
+			  border-width:20x;
+			  padding:10px;
+			  }
+nav ul li {
+				list-style-type:none;
+				display:inline;
+				margin-right:10px;
+				margin-left:10px;
+				color:lime
+				}
+				*
+{
+margin:0;
+padding:0;
+font-family:sans-serif;
+}
+body
+{
+background:black;
+}
+.img-gallery
+{
+width: 80%
+margin: 100px auto 50px;
+display:grid;
+grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+grid gap: 30px;
+}
+.img-gallery img
+{
+ width: 100%;
+ cursor: pointer;
+ }
+ .img-gallery img:hover
+ {
+ tranform: scale(0.8) rotate(-15deg);
+ border-radius: 20px;
+ box-shadow: 0 32px 75px rgba(66,77,136,0.2);
+ }
+ h1{
+border:lime;
+border-width:6px;
+border-style:ridge;
+
+				</style>
+<body>
+
+<p>  <h1>Amogh Vaibhav Tapkire </p> </h1> <br> <br> 
+
+<header> 
+<nav>
+<ul> 
+<li><a href="index.html" title="Navigate to Home" target="_blank">Home</a></li>
+<li><a href="india.html" title="Navigate to india Page" target="_blank">All About india</a></li>
+<li><a href="gallery.html" title="Navigate to Gallery Page" target="_blank">My Gallery</a></li>
+</ul>
+<nav>
+</header>
+
+<p>  <h1>Amogh Vaibhav Tapkire </p> </h1> <br> <br> 
+
+<div class="img-gallery"
+
+<img src="10.jpeg"  alt="wiamogh" width="450" height="300" <br> <br>
+<img src="9.jpeg"  alt="wiamogh" width="450" height="300" <br> <br>
+<img src="11.jpeg"  alt="wiamogh" width="450" height="300" <br> <br>
+<img src="ooo.jpeg"  alt="wiamogh" width="450" height="300" <br> <br>
+<img src="ooo 1.jpeg"  alt="wiamogh" width="451" height="300" <br> <br>
+<img src="10.jpeg"  alt="wiamogh"   width="451" height="300" <br> <br>
+<img src="ooo2.jpeg"  alt="wiamogh" width="450" height="300" <br> <br>
+<img src="9.jpeg"  alt="wiamogh"  width="450" height="300" <br> <br>
+<img src="
+

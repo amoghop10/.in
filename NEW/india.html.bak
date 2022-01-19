@@ -1,0 +1,63 @@
+<html>
+<head> 
+<title> All about india </title>
+</head>
+<style>
+body
+{
+             background-color:orange;
+              color:green;
+             font-family:halvetica;
+              font-style:italic;
+             text-align:center; 
+			 font-size:22
+}
+
+ul {
+			  color:lime;
+			  font-family:"Comic Sans MS", serif;
+			  font-style:italic;
+			  font-size:18px; 
+			
+
+			  background-color:;
+			  border-style:solid;
+			  border-color:lime;
+			  border-width:2px;
+			  padding:10px;
+			  }
+nav ul li {
+				list-style-type:white;
+				display:inline;
+				margin-right:10px;
+				margin-left:10px;
+				color:green;
+				h1{
+border:lime;
+border-width:6px;
+border-style:ridge;
+}
+				
+</style>
+<body>
+<header> 
+<nav>
+<ul> 
+<li><a href="index.html" title="Navigate to Home" target="_blank">Home</a></li>
+<li><a href="india.html" title="Navigate to india Page" target="_blank">All About india</a></li>
+<li><a href="gallery.html" title="Navigate to Gallery Page" target="_blank">My Gallery</a></li>
+</ul>
+<nav>
+</header>
+<article>
+             <h1 id="mf">MY FAVOURITE PLACES TO VISIT IN INDIA</h1>
+             <section class="topDivider">
+             <h2 id="tm">taj mahal</h2>
+            <p>  The Taj Mahal 'Crown of the Palace', is an ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan (reigned from 1628 to 1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall . </p>
+<img src="123.jpeg" alt="amogh" height="200px" width="400px" <br> <br>
+<h2 id="sou">statue of unity</h2>
+<p>The Statue of Unity is a colossal statue of Indian statesman and independence activist Vallabhbhai Patel (1875–1950),<br> who was the first deputy prime minister and home minister of independent India and an adherent of Mahatma Gandhi during the nonviolent Indian independence movement. Patel was highly respected for his leadership in uniting 562 princely states of India with a major part of the former British Raj to form the single Union of India. <br>The Statue of Unity is the world's tallest statue, with a height of 182 metres (597 feet).[3] It is located in the state of Gujarat, India, on the Narmada River in the Kevadiya colony, facing the Sardar Sarovar Dam 100 kilometres (62 mi) southeast of the city of Vadodara[4] and 150 kilometres (93 mi) from the city of Surat. Kevadia railway station is 5 kilometres (3.1 mi) from the statue.[ </p>
+<img src="3.jpeg" alt="amogh" height="400px" width="300px" <br> <br>
+<h2 id "qm">qutb minar</h2>
+<p> The Qutub Minar, also spelled as Qutb Minar and Qutab Minar, is a minaret and "victory tower" that forms part of the Qutb complex. It is a UNESCO World Heritage Site in the Mehrauli area of New Delhi, India.[3][4] It is one of most visited tourist spots in the city due to it being one of the earliest that survives in the Indian subcontinent . <br> This victory tower is a symbol of the synthesis of traditional Islamic architecture and Southwestern Asian design. Elizabeth Lambourn’s Islam Beyond Empires: Mosques and Islamic Landscapes in India and the Indian Ocean studies the introduction of Islam in South Asia and how the region influenced the Islamic religious architecture.
+<img src="433.jpeg" alt="amogh" height="400px" width="300px" <br> <br>

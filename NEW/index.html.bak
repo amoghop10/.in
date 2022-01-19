@@ -1,0 +1,97 @@
+<html>
+<head>
+<title> introduction  </TITLE>
+<style>
+body 
+{
+background-color:black ;
+color:lime;
+font-family:halvetica ;
+font-style:italic ;
+text-align:center; 
+}
+
+
+h1{
+border:lime;
+border-width:6px;
+border-style:ridge;
+
+ ul{
+			  color:lime;
+			  font-family:"Comic Sans MS", serif;
+			  font-style:italic;
+			  font-size:18px; 
+			
+
+			  background-color:black;
+			  border-style:solid;
+			  border-color;
+			  border-width:20x;
+			  padding:10px;
+			  }
+nav ul li {
+				list-style-type:none;
+				display:inline;
+				margin-right:10px;
+				margin-left:10px;
+				color:lime
+				}
+
+table {
+				width: 70%;
+				background-color:black;
+				color:lime;
+				font-size: 20px;
+				font-weight:bold;
+				text-align:center;
+				border: 8pxlime;
+			          }
+			th, td {
+			              border:8pxlime;
+			           }
+			
+			tr:nth-child(even) {
+
+			                                  background-color: #f2f2f2;
+			                                
+
+
+
+
+</style>
+</head>
+<body>
+<header> 
+<nav>
+<ul> 
+<li><a href="index.html" title="Navigate to Home" target="_blank">Home</a></li>
+<li><a href="india.html" title="Navigate to india Page" target="_blank">All About india</a></li>
+<li><a href="gallery.html" title="Navigate to Gallery Page" target="_blank">My Gallery</a></li>
+</ul>
+<nav>
+</header>
+<p>  <h1>Amogh Vaibhav Tapkire </p> </h1> <br> <br> 
+
+<p> <h2>  Hi! Learn a bit more about me …  </p> <h2>  <br>
+
+<img src="football.jfif"  alt="wiamogh"width="261" height="400" <br> <br>
+<p>8th Grader now but a future graphic designer.<br> My passion for arts, drawing, sculpture and painting from a very young age has driven my interest towards graphic designing.<br> I am currently learning different techniques of graphic designing on different software. </p>
+
+ <p>The most valuable lesson I haive learned from school has been the importance of drawing before moving into different artforms.<br> Even though I know I want to be a graphic designer, I have enjoy getting back to basics with sketching. <br>
+This year I will try to mastered Canva and HTML.<br> I will continue to build skills in UI/UX. Next year, I hope to join a course that will provide real-life experience and important technological skills. <br> </p> 
+<h2> FACTS ABOUT ME </h2>
+<center>
+<table>
+<tr>
+<td> where do i live? </td>
+<td> live in pune </td>
+</tr>
+<tr>
+<td>  what i like ? </td>
+<td> to play football </td>
+</tr>
+<td> what you read ? </td>
+<td> autobiography </td> <br> <br> <br>
+</body>
+</html>

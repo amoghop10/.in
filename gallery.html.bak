@@ -1,0 +1,121 @@
+<html>
+<head>
+<title> gallery </title>
+</head>
+<style>
+
+body
+
+ul {
+			  color:lime;
+			  font-family:"Comic Sans MS", serif;
+			  font-style:italic;
+			  font-size:18px; 
+			
+
+			  background-color:black;
+			  border-style:solid;
+			  border-color;
+			  border-width:20x;
+			  padding:10px;
+			  }
+nav ul li {
+				list-style-type:none;
+				display:inline;
+				margin-right:10px;
+				margin-left:10px;
+				color:lime
+				}
+				*
+{
+margin:0;
+padding:0;
+font-family:sans-serif;
+}
+body
+{
+background:black;
+}
+.img-gallery
+{
+width: 80%
+margin: 100px auto 50px;
+display:grid;
+grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+grid gap: 30px;
+}
+.img-gallery img
+{
+ width: 100%;
+ cursor: pointer;
+ }
+ .img-gallery img:hover
+ {
+ tranform: scale(0.8) rotate(-15deg);
+ border-radius: 20px;
+ box-shadow: 0 32px 75px rgba(66,77,136,0.2);
+ }
+body 
+{
+background-color:yellow ;
+color:lime;
+font-family:halvetica ;
+font-style:italic ;
+text-align:center; 
+font-size:30px;
+}
+h1{
+border:lime;
+border-width:6px;
+border-style:ridge; 
+}
+body
+{
+border:lime;
+border-width:6px;
+border-style:dotted;
+}
+
+h{
+border:lime;
+border-width:6px;
+border-style:ridge; 
+}
+
+				</style>
+<body>
+<header> 
+<nav>
+<ul> 
+<li><a href="index.html" title="Navigate to Home" target="_blank">Home</a></li>
+<li><a href="india.html" title="Navigate to india Page" target="_blank">All About india</a></li>
+<li><a href="gallery.html" title="Navigate to Gallery Page" target="_blank">My Gallery</a></li>
+</ul>
+<nav>
+</header>
+
+<p>  <h1>FOOTBALL PICTURE GALLERY</p> </h1> <br> <br> 
+
+<div class="img-gallery"
+<p> Lionel messi <?p>
+<img src="10.jpeg"  alt="wiamogh" width="450" height="300" <br> <br>
+<p> all football stars </p>
+<img src="9.jpeg"  alt="wiamogh" width="450" height="300" <br> <br>
+<P> Kylian mbappe </p>
+<img src="x2.jpeg"  alt="wiamogh" width="450" height="300" <br> <br>
+<p> Mohommad salah </p>
+<img src="ooo.jpeg"  alt="wiamogh" width="450" height="300" <br> <br>
+<p>  neymar.jr </p> 
+<img src="ooo 1.jpeg"  alt="wiamogh" width="451" height="300" <br> <br>
+<p> sadio mane </p>
+<img src="x1.jpeg"  alt="wiamogh"   width="451" height="300" <br> <br>
+<p> sunil chetri and bhaichung bhutia </p>
+<img src="ooo2.jpeg"  alt="wiamogh" width="450" height="300" <br> <br>
+<p> Cristiano ronaldo </p>
+<img src="on 2.jpeg"  alt="wiamogh"  width="450" height="300" <br> <br>
+<p> lionel messi </p>
+<img src="on 3.jpeg" alt="al" width="450" height="300" <br> <br>
+<p> sterling,messi and ronaldo  </p> 
+<img src="on 1.jpeg" alt="am" width="450" height="300" <br> <br>
+
+
